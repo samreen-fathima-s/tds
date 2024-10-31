@@ -1,0 +1,3 @@
+- **Data Collection**: Using the GitHub API, I extracted data on users based in Sydney with over 100 followers, capturing their profiles and repositories with a custom Python script.
+- **Key Finding**: The most popular programming languages are dominated by JavaScript and Python, but a significant number of Sydney-based developers also use Go.
+- **Developer Recommendation**: To increase visibility, developers should consider making their repositories more accessible by enabling wikis and projects.
